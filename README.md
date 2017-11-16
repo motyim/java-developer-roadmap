@@ -26,6 +26,21 @@ Sometimes you will have some free videos / articles and other paid on the same w
 1. 🔝 indicate that the link is a reference
 2. 📹 is present when video content is available 
 ---
+## Table of Contents
+1. **[Problem Solveing](#Problem-Solve)**
+---
+## Problem Solve 
+as a developer having  a good strong problem solving skills can make a huge difference to your career...So, being a confident problem solver is really important to your success. here some website can practices on it :
+
+* [Hacker Rank](https://www.hackerrank.com)
+* [Hacker Earth](https://www.hackerearth.com/)
+* [Codeforces](http://codeforces.com/)
+* [Codility](https://codility.com/)
+* [Top Coder](https://www.topcoder.com/)
+* [Spoj](http://www.spoj.com/)
+
+**[⬆ back to top](#table-of-contents)**
+---
 
 ## ☑ TODO
 
@@ -33,6 +48,7 @@ Sometimes you will have some free videos / articles and other paid on the same w
 - [ ] Init Roadmap
 - [ ] Init References
 - [ ] Init Jobs websites
+- [X] Init problem solve website
 - [ ] init helps form and website
 
 ---

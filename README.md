@@ -40,8 +40,8 @@ as a developer having  a good strong problem solving skills can make a huge diff
 * [Spoj](http://www.spoj.com/)
 
 **[⬆ back to top](#table-of-contents)**
----
 
+---
 ## ☑ TODO
 
 - [X] Init Readme
@@ -50,8 +50,18 @@ as a developer having  a good strong problem solving skills can make a huge diff
 - [ ] Init Jobs websites
 - [X] Init problem solve website
 - [ ] init helps form and website
-
 ---
+## Contributing
+
+**Open an issue or a pull request to suggest changes or additions.**
+
+### Contributors
+
+Check out all the super awesome [contributors](https://github.com/motyim/java-developer-roadmap/graphs/contributors).
+
 ## License
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+  
+  **[⬆ back to top](#table-of-contents)**
+

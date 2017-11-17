@@ -38,6 +38,8 @@ as a developer having  a good strong problem solving skills can make a huge diff
 * [Codility](https://codility.com/)
 * [Top Coder](https://www.topcoder.com/)
 * [Spoj](http://www.spoj.com/)
+* [Interview Bit](https://www.interviewbit.com/)
+* [Leet Code](https://leetcode.com/)
 
 **[⬆ back to top](#table-of-contents)**
 
